@@ -8,7 +8,7 @@ After 12 years in Supply Chain, the need to match my hobby of programming with m
 
 * 🌍  I'm based in Lille, North of france
 * ✉️  You can contact me at [pittera.joseph@gmail.com](mailto:pittera.joseph@gmail.com)
-* 🧠  I'm learning Vuejs
+* 🧠  I'm learning ReactJs
 * ⚡  I love climbing
 
 <a href="https://www.github.com/Joseph-Pittera" target="_blank" rel="noreferrer"><img
